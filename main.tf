@@ -1,4 +1,4 @@
-resource "aws-iam-user" "cloud" {
+resource "aws_iam_user" "cloud" {
 	name = "intern"
 }
 
